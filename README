@@ -1,0 +1,7 @@
+# Aprendendo sobre PR e Branches na prática!
+Esse projeto foi criado para que eu possa aprender de forma mais detalhada como utilizar o sistema de Pull Request e de Branches separadas da main, que é um conceito fundamental para trabalhar em equipe utilizando o Git e o Github. 
+
+```
+git init
+```
+
